@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		481B78490D7E034E00422BCD /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 481B78480D7E034E00422BCD /* Carbon.framework */; };
 		48291A940F5F297500B56B3F /* libcrypto.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 48291A930F5F297500B56B3F /* libcrypto.dylib */; };
-		482CF3260DAC00D0006525AB /* SLControllerConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 482CF3250DAC00D0006525AB /* SLControllerConstants.m */; };
 		482CF59B0DBFC4E0006525AB /* lock.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 482CF5990DBFC4E0006525AB /* lock.tiff */; };
 		482CF59C0DBFC4E0006525AB /* move.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 482CF59A0DBFC4E0006525AB /* move.tiff */; };
 		4833D87A0DED9EE8001DD233 /* SLAppsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4833D8740DED9EE8001DD233 /* SLAppsView.m */; };
@@ -103,7 +102,6 @@
 		32CA4F630368D1EE00C91783 /* Slife_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Slife_Prefix.pch; sourceTree = "<group>"; };
 		481B78480D7E034E00422BCD /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
 		48291A930F5F297500B56B3F /* libcrypto.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcrypto.dylib; path = /usr/lib/libcrypto.dylib; sourceTree = "<absolute>"; };
-		482CF3250DAC00D0006525AB /* SLControllerConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SLControllerConstants.m; path = Controllers/SLControllerConstants.m; sourceTree = "<group>"; };
 		482CF5990DBFC4E0006525AB /* lock.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = lock.tiff; sourceTree = "<group>"; };
 		482CF59A0DBFC4E0006525AB /* move.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = move.tiff; sourceTree = "<group>"; };
 		4833D8730DED9EE8001DD233 /* SLAppsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SLAppsView.h; path = Views/SLAppsView.h; sourceTree = "<group>"; };
@@ -359,7 +357,6 @@
 			isa = PBXGroup;
 			children = (
 				48CBF6FC0DA178BB00D1BF6C /* SLPreferences.m */,
-				482CF3250DAC00D0006525AB /* SLControllerConstants.m */,
 				4893860F0E23AF2B003C3EFB /* SLInfoWindowController.h */,
 				489386100E23AF2B003C3EFB /* SLInfoWindowController.m */,
 				487CD5180DF86EC5007ABADE /* SLSideFrameButtonController.h */,
@@ -550,7 +547,6 @@
 				48BA1E750D9300D400774F15 /* ImageAndTextCell.m in Sources */,
 				48ED5FBE0D99B5FE003673FA /* SLGoalsView.m in Sources */,
 				48CBF6FD0DA178BB00D1BF6C /* SLPreferences.m in Sources */,
-				482CF3260DAC00D0006525AB /* SLControllerConstants.m in Sources */,
 				4833D87A0DED9EE8001DD233 /* SLAppsView.m in Sources */,
 				4833D87B0DED9EE8001DD233 /* SLGradientView.m in Sources */,
 				4833D87C0DED9EE8001DD233 /* SLMonthView.m in Sources */,

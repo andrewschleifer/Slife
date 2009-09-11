@@ -171,19 +171,11 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274391945;
-			PBXWorkspaceStateSaveDate = 274391945;
+			PBXPerProjectTemplateStateSaveDate = 274392972;
+			PBXWorkspaceStateSaveDate = 274392972;
 		};
 		perUserProjectItems = {
-			482517860E3A229E00E070DD = 482517860E3A229E00E070DD /* PBXTextBookmark */;
-			482517880E3A229E00E070DD = 482517880E3A229E00E070DD /* PBXTextBookmark */;
-			482517AF0E3A25AC00E070DD = 482517AF0E3A25AC00E070DD /* PBXTextBookmark */;
-			482517CA0E3A2CA900E070DD = 482517CA0E3A2CA900E070DD /* PBXTextBookmark */;
 			48269D6E0EDB974B0013C678 = 48269D6E0EDB974B0013C678 /* PBXTextBookmark */;
-			48341DB70FC702EB004B8F2B = 48341DB70FC702EB004B8F2B /* PBXTextBookmark */;
-			48341DBA0FC702EB004B8F2B = 48341DBA0FC702EB004B8F2B /* PBXTextBookmark */;
-			48398A9D0F758CF200C0B876 = 48398A9D0F758CF200C0B876 /* PBXTextBookmark */;
-			483FD6610F93D01100CD0B9F = 483FD6610F93D01100CD0B9F /* PBXTextBookmark */;
 			484E004B105AD48600915F07 = 484E004B105AD48600915F07 /* PBXTextBookmark */;
 			484E004C105AD48600915F07 = 484E004C105AD48600915F07 /* PBXTextBookmark */;
 			484E004D105AD48600915F07 = 484E004D105AD48600915F07 /* PBXTextBookmark */;
@@ -193,8 +185,6 @@
 			484E0051105AD48600915F07 = 484E0051105AD48600915F07 /* PBXTextBookmark */;
 			484E0052105AD48600915F07 = 484E0052105AD48600915F07 /* PBXTextBookmark */;
 			484E0053105AD48600915F07 = 484E0053105AD48600915F07 /* PBXTextBookmark */;
-			484E0054105AD48600915F07 = 484E0054105AD48600915F07 /* PBXTextBookmark */;
-			484E0055105AD48600915F07 = 484E0055105AD48600915F07 /* PBXTextBookmark */;
 			484E0056105AD48600915F07 = 484E0056105AD48600915F07 /* PBXTextBookmark */;
 			484E0057105AD48600915F07 = 484E0057105AD48600915F07 /* PBXTextBookmark */;
 			484E0058105AD48600915F07 = 484E0058105AD48600915F07 /* PBXTextBookmark */;
@@ -271,19 +261,14 @@
 			484E00BC105ADFB100915F07 = 484E00BC105ADFB100915F07 /* PBXBookmark */;
 			484E00BD105ADFB100915F07 = 484E00BD105ADFB100915F07 /* PlistBookmark */;
 			484E00BE105ADFB100915F07 = 484E00BE105ADFB100915F07 /* PBXTextBookmark */;
-			484E00BF105ADFB100915F07 = 484E00BF105ADFB100915F07 /* PBXTextBookmark */;
 			484E00C1105ADFB100915F07 = 484E00C1105ADFB100915F07 /* PBXTextBookmark */;
 			484E00C2105ADFB100915F07 = 484E00C2105ADFB100915F07 /* PBXTextBookmark */;
-			484E00C3105ADFB100915F07 = 484E00C3105ADFB100915F07 /* PBXTextBookmark */;
-			484E00C5105AE1AB00915F07 = 484E00C5105AE1AB00915F07 /* PBXTextBookmark */;
-			488133010E10285A0068716D = 488133010E10285A0068716D /* PBXTextBookmark */;
-			48836BC3105AE38C00CDFB4D /* PBXTextBookmark */ = 48836BC3105AE38C00CDFB4D /* PBXTextBookmark */;
-			48836BC7105AE39E00CDFB4D /* PBXTextBookmark */ = 48836BC7105AE39E00CDFB4D /* PBXTextBookmark */;
-			48836BC8105AE39E00CDFB4D /* PBXTextBookmark */ = 48836BC8105AE39E00CDFB4D /* PBXTextBookmark */;
-			48836BC9105AE39E00CDFB4D /* PBXTextBookmark */ = 48836BC9105AE39E00CDFB4D /* PBXTextBookmark */;
+			48836BC7105AE39E00CDFB4D = 48836BC7105AE39E00CDFB4D /* PBXTextBookmark */;
+			48836BC8105AE39E00CDFB4D = 48836BC8105AE39E00CDFB4D /* PBXTextBookmark */;
+			48836BC9105AE39E00CDFB4D = 48836BC9105AE39E00CDFB4D /* PBXTextBookmark */;
+			48836BD9105AE61900CDFB4D = 48836BD9105AE61900CDFB4D /* PBXTextBookmark */;
 			488E3E170EC54DE10029C53A = 488E3E170EC54DE10029C53A /* PBXTextBookmark */;
 			489A88A20E5C754800E43443 = 489A88A20E5C754800E43443 /* PBXTextBookmark */;
-			48E38E570F411F78003F85AB = 48E38E570F411F78003F85AB /* PBXTextBookmark */;
 			48E38E580F411F78003F85AB = 48E38E580F411F78003F85AB /* PBXTextBookmark */;
 			48FE8CC40EF313EC00BE481D = 48FE8CC40EF313EC00BE481D /* PBXTextBookmark */;
 		};
@@ -306,54 +291,6 @@
 			sepNavVisRange = "{0, 927}";
 		};
 	};
-	4805E7460DD4A54B0079A667 /* SLWelcomeController.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = SLWelcomeController.m;
-		path = /Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Controllers/SLWelcomeController.m;
-		sourceTree = "<absolute>";
-	};
-	482517860E3A229E00E070DD /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BA40D9D80A300957685 /* XMLRPCRequest.m */;
-		name = "XMLRPCRequest.m: 413";
-		rLen = 0;
-		rLoc = 9760;
-		rType = 0;
-		vrLen = 1793;
-		vrLoc = 3;
-	};
-	482517880E3A229E00E070DD /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BA30D9D80A300957685 /* XMLRPCRequest.h */;
-		name = "XMLRPCRequest.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1839;
-		vrLoc = 0;
-	};
-	482517AF0E3A25AC00E070DD /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BA60D9D80A300957685 /* XMLRPCResponse.m */;
-		name = "XMLRPCResponse.m: 311";
-		rLen = 57;
-		rLoc = 7447;
-		rType = 0;
-		vrLen = 1039;
-		vrLoc = 6871;
-	};
-	482517CA0E3A2CA900E070DD /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BA20D9D80A300957685 /* XMLRPCCall.m */;
-		name = "XMLRPCCall.m: 339";
-		rLen = 114;
-		rLoc = 6276;
-		rType = 0;
-		vrLen = 1172;
-		vrLoc = 5718;
-	};
 	48269D6E0EDB974B0013C678 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 48269D6F0EDB974B0013C678 /* MacApplication.h */;
@@ -372,8 +309,14 @@
 		sourceTree = "<absolute>";
 	};
 	482CF3250DAC00D0006525AB /* SLControllerConstants.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SLControllerConstants.m;
+		path = "/Users/edisonthomaz/Documents/My_Docs/Funilaria/Slife Labs/Open Source/slife/v2.5/Controllers/SLControllerConstants.m";
+		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 707}}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 732}}";
 			sepNavSelRange = "{784, 0}";
 			sepNavVisRange = "{0, 1749}";
 			sepNavWindowFrame = "{{400, 74}, {983, 859}}";
@@ -423,46 +366,6 @@
 			sepNavVisRange = "{0, 1702}";
 			sepNavWindowFrame = "{{101, -896}, {1427, 896}}";
 		};
-	};
-	48341DB70FC702EB004B8F2B /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 4805E7460DD4A54B0079A667 /* SLWelcomeController.m */;
-		name = "SLWelcomeController.m: 64";
-		rLen = 106;
-		rLoc = 1864;
-		rType = 0;
-		vrLen = 2019;
-		vrLoc = 596;
-	};
-	48341DBA0FC702EB004B8F2B /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95C160D9DB1E900957685 /* GSNSDataExtensions.m */;
-		name = "GSNSDataExtensions.m: 17";
-		rLen = 0;
-		rLoc = 466;
-		rType = 0;
-		vrLen = 2458;
-		vrLoc = 0;
-	};
-	48398A9D0F758CF200C0B876 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BFF0D9DAFAE00957685 /* SLNetworkControllerConstants.m */;
-		name = "SLNetworkControllerConstants.m: 28";
-		rLen = 0;
-		rLoc = 1073;
-		rType = 0;
-		vrLen = 1073;
-		vrLoc = 0;
-	};
-	483FD6610F93D01100CD0B9F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BFE0D9DAFAE00957685 /* SLNetworkController.m */;
-		name = "SLNetworkController.m: 424";
-		rLen = 13;
-		rLoc = 11352;
-		rType = 0;
-		vrLen = 1468;
-		vrLoc = 10965;
 	};
 	484CFD150D74613C00DD9C42 /* MAAttachedWindow.h */ = {
 		uiCtxt = {
@@ -568,26 +471,6 @@
 		rLoc = 784;
 		rType = 0;
 		vrLen = 1717;
-		vrLoc = 0;
-	};
-	484E0054105AD48600915F07 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 77C8280B06725ACE000B614F /* Slife_AppDelegate.h */;
-		name = "Slife_AppDelegate.h: 18";
-		rLen = 0;
-		rLoc = 784;
-		rType = 0;
-		vrLen = 1666;
-		vrLoc = 0;
-	};
-	484E0055105AD48600915F07 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 77C8280C06725ACE000B614F /* Slife_AppDelegate.m */;
-		name = "Slife_AppDelegate.m: 18";
-		rLen = 0;
-		rLoc = 784;
-		rType = 0;
-		vrLen = 1799;
 		vrLoc = 0;
 	};
 	484E0056105AD48600915F07 /* PBXTextBookmark */ = {
@@ -1156,23 +1039,6 @@
 		vrLen = 107;
 		vrLoc = 0;
 	};
-	484E00BF105ADFB100915F07 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 484E00C0105ADFB100915F07 /* SLRegistrationController.m */;
-		name = "SLRegistrationController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 996;
-		vrLoc = 0;
-	};
-	484E00C0105ADFB100915F07 /* SLRegistrationController.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = SLRegistrationController.m;
-		path = /Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Controllers/SLRegistrationController.m;
-		sourceTree = "<absolute>";
-	};
 	484E00C1105ADFB100915F07 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 484CFD150D74613C00DD9C42 /* MAAttachedWindow.h */;
@@ -1192,26 +1058,6 @@
 		rType = 0;
 		vrLen = 429;
 		vrLoc = 581;
-	};
-	484E00C3105ADFB100915F07 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48BA15FD0D6A2AE70056946A /* DBSourceSplitView.h */;
-		name = "DBSourceSplitView.h: 14";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 364;
-		vrLoc = 0;
-	};
-	484E00C5105AE1AB00915F07 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48BA15FD0D6A2AE70056946A /* DBSourceSplitView.h */;
-		name = "DBSourceSplitView.h: 14";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 364;
-		vrLoc = 0;
 	};
 	4871636E0DF1FFB500A79E05 /* PBXBookmarkGroup */ = {
 		isa = PBXBookmarkGroup;
@@ -1271,26 +1117,6 @@
 			sepNavWindowFrame = "{{449, 89}, {1117, 883}}";
 		};
 	};
-	488133010E10285A0068716D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48C95BA50D9D80A300957685 /* XMLRPCResponse.h */;
-		name = "XMLRPCResponse.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1854;
-		vrLoc = 0;
-	};
-	48836BC3105AE38C00CDFB4D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 48BA15FD0D6A2AE70056946A /* DBSourceSplitView.h */;
-		name = "DBSourceSplitView.h: 14";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 364;
-		vrLoc = 0;
-	};
 	48836BC7105AE39E00CDFB4D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 48BA15FD0D6A2AE70056946A /* DBSourceSplitView.h */;
@@ -1312,6 +1138,16 @@
 		vrLoc = 0;
 	};
 	48836BC9105AE39E00CDFB4D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77C8280C06725ACE000B614F /* Slife_AppDelegate.m */;
+		name = "Slife_AppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 973;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 636;
+	};
+	48836BD9105AE61900CDFB4D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 77C8280C06725ACE000B614F /* Slife_AppDelegate.m */;
 		name = "Slife_AppDelegate.m: 27";
@@ -1353,14 +1189,6 @@
 			sepNavVisRange = "{0, 1756}";
 			sepNavWindowFrame = "{{468, -907}, {1421, 896}}";
 		};
-	};
-	489A87C00E5C63D300E43443 /* NSImageBase64.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = NSImageBase64.m;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/NSImageBase64.m";
-		sourceTree = "<absolute>";
 	};
 	489A88A20E5C754800E43443 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -1597,75 +1425,11 @@
 		originalNumberOfMultipleMatches = 0;
 		state = 0;
 	};
-	48C95BA20D9D80A300957685 /* XMLRPCCall.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = XMLRPCCall.m;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/XMLRPCCall.m";
-		sourceTree = "<absolute>";
-	};
-	48C95BA30D9D80A300957685 /* XMLRPCRequest.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = XMLRPCRequest.h;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/XMLRPCRequest.h";
-		sourceTree = "<absolute>";
-	};
-	48C95BA40D9D80A300957685 /* XMLRPCRequest.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = XMLRPCRequest.m;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/XMLRPCRequest.m";
-		sourceTree = "<absolute>";
-	};
-	48C95BA50D9D80A300957685 /* XMLRPCResponse.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = XMLRPCResponse.h;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/XMLRPCResponse.h";
-		sourceTree = "<absolute>";
-	};
-	48C95BA60D9D80A300957685 /* XMLRPCResponse.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = XMLRPCResponse.m;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/XMLRPCResponse.m";
-		sourceTree = "<absolute>";
-	};
-	48C95BFE0D9DAFAE00957685 /* SLNetworkController.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = SLNetworkController.m;
-		path = /Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Controllers/SLNetworkController.m;
-		sourceTree = "<absolute>";
-	};
-	48C95BFF0D9DAFAE00957685 /* SLNetworkControllerConstants.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = SLNetworkControllerConstants.m;
-		path = /Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Controllers/SLNetworkControllerConstants.m;
-		sourceTree = "<absolute>";
-	};
-	48C95C160D9DB1E900957685 /* GSNSDataExtensions.m */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.objc;
-		name = GSNSDataExtensions.m;
-		path = "/Users/edisonthomaz/Documents/My_Docs/Code/Subversion/Old/slifetwo/Third-Party/GSNSDataExtensions.m";
-		sourceTree = "<absolute>";
-	};
 	48CBF6FC0DA178BB00D1BF6C /* SLPreferences.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {967, 980}}";
 			sepNavSelRange = "{784, 0}";
-			sepNavVisRange = "{0, 1804}";
+			sepNavVisRange = "{0, 1819}";
 			sepNavWindowFrame = "{{361, -874}, {1137, 874}}";
 		};
 	};
@@ -1744,16 +1508,6 @@
 			sepNavVisRange = "{0, 1843}";
 			sepNavWindowFrame = "{{196, 31}, {1197, 878}}";
 		};
-	};
-	48E38E570F411F78003F85AB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 489A87C00E5C63D300E43443 /* NSImageBase64.m */;
-		name = "NSImageBase64.m: 57";
-		rLen = 0;
-		rLoc = 1414;
-		rType = 0;
-		vrLen = 1776;
-		vrLoc = 948;
 	};
 	48E38E580F411F78003F85AB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -1850,7 +1604,7 @@
 		scmConfiguration = {
 			repositoryName = "Slife 2.0";
 			repositoryNamesForRoots = {
-				"" = "Slife 2.0";
+				"" = "Google Code";
 			};
 		};
 	};
@@ -2042,9 +1796,9 @@
 	};
 	77C8280C06725ACE000B614F /* Slife_AppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {967, 27678}}";
-			sepNavSelRange = "{973, 0}";
-			sepNavVisRange = "{636, 1132}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 27650}}";
+			sepNavSelRange = "{812, 0}";
+			sepNavVisRange = "{0, 1253}";
 			sepNavWindowFrame = "{{500, 50}, {1054, 923}}";
 		};
 	};
