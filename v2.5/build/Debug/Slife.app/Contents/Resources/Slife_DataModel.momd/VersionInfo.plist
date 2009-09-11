@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Slife_DataModel 2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Slife_DataModel</key>
+		<dict>
+			<key>Activity</key>
+			<data>
+			XImJgmy36tMvBNCkwOK0zdov+nYn918i6+ymc4S7rKc=
+			</data>
+			<key>ActivityRecorded</key>
+			<data>
+			5DCPyC8hcaG+rJz7Wbkdb3oH7Oqvrqcx9AsIDHBJaKU=
+			</data>
+			<key>Application</key>
+			<data>
+			FERvyfbZL73DDwRJsbYzfnu5sbfbphZ78iIsxzLUgzY=
+			</data>
+			<key>ApplicationRecorded</key>
+			<data>
+			Ev3UwUPqm7Yk2/QMBkx503XfHlsmJm0ThVm6GlSUv1Q=
+			</data>
+			<key>Event</key>
+			<data>
+			hI72iHCBmSScfRwhqB5J1J5zOrDwhO5FYV8py7BU55w=
+			</data>
+			<key>Item</key>
+			<data>
+			s5SPfgrzy7CUhJy49rf2vY3C7eNRDhoXl1OQAgHui6M=
+			</data>
+			<key>ItemRecorded</key>
+			<data>
+			isCZdF0K+0cBfcaJYlXJ4IkWfqFTMBdr+6+5AOjhRk8=
+			</data>
+		</dict>
+		<key>Slife_DataModel 2</key>
+		<dict>
+			<key>ActiveTime</key>
+			<data>
+			lqHw6VM3Qov/QwPQsGj8c3gFGie0ntvwLXK/niUusdk=
+			</data>
+			<key>Activity</key>
+			<data>
+			7iyIjTEQ6fKhsRoeoN2JE6eQj+6dH0u3Aq/Z/T0LlJ4=
+			</data>
+			<key>ActivityRecorded</key>
+			<data>
+			iCbWXswriMri3lVAuVW7HPS9mjraA5tatGw2J7JzeBw=
+			</data>
+			<key>ActivitySwitch</key>
+			<data>
+			FN3q4FObXx/6nLgnfc1mWHmYxG+6iQlLbeoEJME6TPE=
+			</data>
+			<key>Application</key>
+			<data>
+			FERvyfbZL73DDwRJsbYzfnu5sbfbphZ78iIsxzLUgzY=
+			</data>
+			<key>ApplicationRecorded</key>
+			<data>
+			BdneE5qRzncB29iURRTPuNu3RJZFsetfP0J3j8Q+lOQ=
+			</data>
+			<key>ApplicationSwitch</key>
+			<data>
+			E9E/vXL6sQMY8H9Aq1/UOdMBSisIksTDfqoGpMQZk8g=
+			</data>
+			<key>Event</key>
+			<data>
+			7gJX0/kbPsimzFIXGrfoJgDU9e9ppE/tzhVu5I3DeUY=
+			</data>
+			<key>Item</key>
+			<data>
+			s5SPfgrzy7CUhJy49rf2vY3C7eNRDhoXl1OQAgHui6M=
+			</data>
+			<key>ItemRecorded</key>
+			<data>
+			isCZdF0K+0cBfcaJYlXJ4IkWfqFTMBdr+6+5AOjhRk8=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

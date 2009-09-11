@@ -1,0 +1,58 @@
+
+// Slife for MacOS X
+// Copyright (C) 2009 Slife Labs, LLC
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/
+//
+// For comments or questions, please contact us at http://www.slifelabs.com
+
+#import "SLGradientView.h"
+
+
+@implementation SLGradientView
+
+// **********************************************************************
+//							initWithFrame
+// **********************************************************************
+- (id)initWithFrame:(NSRect)frame 
+{
+    self = [super initWithFrame:frame];
+    if (self) 
+	{
+        // Get the hour label hilite background
+		m_gradientImage = [[NSImage alloc] initWithData:[[NSImage imageNamed: @"graygradientlarge"] TIFFRepresentation]];
+    }
+	
+    return self;
+}
+
+// **********************************************************************
+//							drawRect
+// **********************************************************************
+- (void)drawRect:(NSRect)rect 
+{
+	int counter = 0;
+	
+	NSRect viewBounds = [self bounds];
+	
+    // Draw the image a number of times
+    for(counter= 0; counter < viewBounds.size.width; counter++)
+    {
+        // Draw the hour back hilite checkbox image
+        [m_gradientImage compositeToPoint:
+            NSMakePoint(counter, 0) operation:NSCompositeSourceOver];
+    }
+}
+
+@end
