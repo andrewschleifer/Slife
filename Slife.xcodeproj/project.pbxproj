@@ -71,6 +71,7 @@
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		EB4B09CC151431E000B1693B /* chrome.scpt in Resources */ = {isa = PBXBuildFile; fileRef = EB4B09CB151431CF00B1693B /* chrome.scpt */; };
 		EB6BB9060D09FA2D00CD8B1B /* SLSideFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = EB6BB9050D09FA2D00CD8B1B /* SLSideFrame.m */; };
 		EB6C68B50D04565700DAB164 /* SLDayView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB6C68B40D04565700DAB164 /* SLDayView.m */; };
 		EB6C6A190D05E7C100DAB164 /* SLViewConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = EB6C6A180D05E7C100DAB164 /* SLViewConstants.m */; };
@@ -171,6 +172,7 @@
 		77C8280C06725ACE000B614F /* Slife_AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Slife_AppDelegate.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* Slife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Slife.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB4B09CB151431CF00B1693B /* chrome.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.scpt; name = chrome.scpt; path = Scripts/chrome.scpt; sourceTree = "<group>"; };
 		EB6BB9040D09FA2D00CD8B1B /* SLSideFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SLSideFrame.h; path = Views/SLSideFrame.h; sourceTree = "<group>"; };
 		EB6BB9050D09FA2D00CD8B1B /* SLSideFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SLSideFrame.m; path = Views/SLSideFrame.m; sourceTree = "<group>"; };
 		EB6C68B30D04565700DAB164 /* SLDayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SLDayView.h; path = Views/SLDayView.h; sourceTree = "<group>"; };
@@ -286,6 +288,7 @@
 		484CFC350D73772B00DD9C42 /* Scripts */ = {
 			isa = PBXGroup;
 			children = (
+				EB4B09CB151431CF00B1693B /* chrome.scpt */,
 				487165320DF4761A00A79E05 /* mail.scpt */,
 				487165330DF4761A00A79E05 /* netnewswire.scpt */,
 				485CC6400D858946008DC7B8 /* firefox.scpt */,
@@ -473,6 +476,7 @@
 			files = (
 				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
 				484CFCBD0D73941100DD9C42 /* safari.scpt in Resources */,
+				EB4B09CC151431E000B1693B /* chrome.scpt in Resources */,
 				485CC6480D858EFD008DC7B8 /* firefox.scpt in Resources */,
 				485CC6490D858EFD008DC7B8 /* opera.scpt in Resources */,
 				4871654D0DF4770F00A79E05 /* mail.scpt in Resources */,

@@ -32,7 +32,8 @@
 	NSAppleScript*				m_safariScript;
 	NSAppleScript*				m_firefoxScript;
 	NSAppleScript*				m_operaScript;
-
+	NSAppleScript*				m_chromeScript;
+    
 	NSTimer*					m_observationTimer;
 	BOOL						m_observerActive;
 	

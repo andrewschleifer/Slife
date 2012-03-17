@@ -113,6 +113,11 @@ const int MAX_SECS = 3600;
 	theScriptPathURL = [NSURL fileURLWithPath: theScriptPath];
 	m_operaScript = [[NSAppleScript alloc] initWithContentsOfURL: theScriptPathURL error: &errorDict];
 	
+	// Chrome
+	theScriptPath = [theBundlePath stringByAppendingPathComponent: @"chrome.scpt"];
+	theScriptPathURL = [NSURL fileURLWithPath: theScriptPath];
+	m_chromeScript = [[NSAppleScript alloc] initWithContentsOfURL: theScriptPathURL error: &errorDict];
+	
 	// Init the idleness detector variables
 	m_systemIdle = FALSE;
 	m_lastRecordedMousePosition.x = 0;
