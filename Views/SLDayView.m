@@ -193,9 +193,7 @@ extern int k_viewIconOffset;
 	[self removeTooltipWindow];
 	
 	// Set new date
-	m_selectedDate = [NSCalendarDate dateWithString: 
-		[newDate descriptionWithCalendarFormat: @"%d %m %Y" timeZone: nil locale: [[NSUserDefaults standardUserDefaults] dictionaryRepresentation]] 
-		calendarFormat: @"%d %m %Y"];
+    m_selectedDate = [newDate dateWithCalendarFormat:nil timeZone:[NSTimeZone defaultTimeZone]];
 	
 	// Change the date in the header
 	[m_dateTextField setStringValue: [m_selectedDate descriptionWithCalendarFormat: @"%B %e, %Y"]];
@@ -587,10 +585,10 @@ extern int k_viewIconOffset;
 				
 				// Duration + Date
 				NSDate* eventDate_Date = [m_eventSelected valueForKey: @"startDate"];
-				NSCalendarDate* eventDate = [NSCalendarDate dateWithString: [eventDate_Date description] calendarFormat: @"%Y-%m-%d %H:%M:%S"];
+                NSCalendarDate* eventDate = [eventDate_Date dateWithCalendarFormat:@"%Y-%m-%d %H:%M:%S" timeZone:[NSTimeZone defaultTimeZone]];
 				
 				NSDate* eventEndDate_Date = [m_eventSelected valueForKey: @"endDate"];
-				NSCalendarDate* eventEndDate = [NSCalendarDate dateWithString: [eventEndDate_Date description] calendarFormat: @"%Y-%m-%d %H:%M:%S"];
+                NSCalendarDate* eventEndDate = [eventEndDate_Date dateWithCalendarFormat:@"%Y-%m-%d %H:%M:%S" timeZone:[NSTimeZone defaultTimeZone]];
 				
 				int seconds=0;
 				[eventEndDate years: NULL months: NULL days: NULL  hours:NULL minutes:NULL seconds:&seconds sinceDate: eventDate];
@@ -729,8 +727,8 @@ NSInteger appsNumberOfEventsCompare(id obj1, id obj2, void* context)
 	
     // Get the event time
     NSDate* eventDate_Date = [eventObject valueForKey: @"startDate"];
-	NSCalendarDate* eventDate = [NSCalendarDate dateWithString: [eventDate_Date description] calendarFormat: @"%Y-%m-%d %H:%M:%S"];
-	
+    NSCalendarDate* eventDate = [eventDate_Date dateWithCalendarFormat:@"%Y-%m-%d %H:%M:%S" timeZone:[NSTimeZone defaultTimeZone]];
+
 	int event_day = [eventDate dayOfMonth];
     int event_hour = [eventDate hourOfDay];
     int event_minute = [eventDate minuteOfHour];

@@ -136,9 +136,7 @@ extern int k_goalIconWidth;
 - (void) setDate:(NSCalendarDate*) newDate
 {	
 	// Set new date
-	m_selectedDate = [NSCalendarDate dateWithString: 
-		[newDate descriptionWithCalendarFormat: @"%d %m %Y" timeZone: nil locale: [[NSUserDefaults standardUserDefaults] dictionaryRepresentation]] 
-		calendarFormat: @"%d %m %Y"];
+    m_selectedDate = [newDate dateWithCalendarFormat:nil timeZone:[NSTimeZone defaultTimeZone]];
 	
 	// Set the date header
 	[m_headerDateTextField setStringValue: [m_selectedDate descriptionWithCalendarFormat: @"%B %Y"]];
