@@ -241,9 +241,7 @@ static NSString* activitiesChangeContext = @"activitiesChangeContext";
 - (void) setDate:(NSCalendarDate*) newDate
 {	
 	// Get value from date picker and make it the current date
-	m_selectedDate = [NSCalendarDate dateWithString:
-		[newDate descriptionWithCalendarFormat: @"%d %m %Y" timeZone: [NSTimeZone defaultTimeZone] locale: [[NSUserDefaults standardUserDefaults] dictionaryRepresentation]]
-		calendarFormat: @"%d %m %Y"];
+    m_selectedDate = [newDate dateWithCalendarFormat:nil timeZone:[NSTimeZone defaultTimeZone]];
 	
 	// Set the date header
 	if(m_selectedDateRange==k_dayRange)

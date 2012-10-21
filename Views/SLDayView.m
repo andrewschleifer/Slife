@@ -193,9 +193,7 @@ extern int k_viewIconOffset;
 	[self removeTooltipWindow];
 	
 	// Set new date
-	m_selectedDate = [NSCalendarDate dateWithString: 
-		[newDate descriptionWithCalendarFormat: @"%d %m %Y" timeZone:[NSTimeZone defaultTimeZone] locale: [[NSUserDefaults standardUserDefaults] dictionaryRepresentation]]
-		calendarFormat: @"%d %m %Y"];
+    m_selectedDate = [newDate dateWithCalendarFormat:nil timeZone:[NSTimeZone defaultTimeZone]];
 	
 	// Change the date in the header
 	[m_dateTextField setStringValue: [m_selectedDate descriptionWithCalendarFormat: @"%B %e, %Y"]];
