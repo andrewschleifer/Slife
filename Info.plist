@@ -19,7 +19,11 @@
 	<key>CFBundleSignature</key>
 	<string>slfe</string>
 	<key>CFBundleVersion</key>
-	<string>2.5</string>
+	<string>0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0</string>
+	<key>CFBundleGitVersionString</key>
+	<string>0</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
