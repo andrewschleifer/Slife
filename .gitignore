@@ -1,5 +1,6 @@
 .DS_Store
-build
+/build
+/Slife-*.zip
 *.xcodeproj/*.mode*
 *.xcodeproj/*.pbxuser
 *.xcodeproj/*.perspective*
